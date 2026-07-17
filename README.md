@@ -1,13 +1,13 @@
-# 👋 Hello World, I'm Hilmy! (fm146)
+# 👋 Hi Folks!, I'm Hilmy Haidar
 
-System Architect | Quant Trader | Web Explorer
+System Architect | Quant Trader | Web Developer
 
 ---
 
 ## 🚀 About Me
 I'm a **System Architect** passionate about **High-Performance Computing (HPC)**, **interactive systems**, and **web architectures**. I enjoy designing efficient systems, optimizing low-level performance, and bridging the gap between backends, interactive interfaces, and system architectures.
 
-- 🛠️ **Currently Working On**: System benchmarking, high-performance optimization, and interactive systems.
+- 🛠️ **Currently Working On**: High-performance cross platform app, and deep learning based trading systems.
 - ⚡ **Fun Fact**: I enjoy racing in everything, including software performance.
 
 ---
