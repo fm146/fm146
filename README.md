@@ -21,7 +21,7 @@ Here are the programming languages I use most frequently across my projects, inc
 | **C / C++** | `████████████████░░░` *85%* | High-Performance Computing, GPU-accelerated signal processing (`GPU-DSP`), ESP32 microcontrollers (`esp32-blinker`) |
 | **TypeScript / JS** | `█████████████░░░░░░` *70%* | Interactive trading charts (`Footprint-Chart-React-TSX`), React/Vite frontends (`official-website`), and React SPAs |
 | **PHP (Laravel/CI)** | `████████████░░░░░░░` *60%* | Laravel backends with WhatsApp/SMTP APIs (`chatbox-emailsmtp-waapi`), quantitative hedge fund HRIS (`HR-Information-System-SIGITEC`) |
-| **Dart (Flutter)** | `██████████░░░░░░░░░` *50%* | Cross-platform mobile application development (`gogizi`) |
+| **Dart (Flutter)** | `██████████░░░░░░░░░` *50%* | Cross-platform mobile application development (`bandarmolony`) |
 | **MQL5 / Python** | `█████████░░░░░░░░░░` *45%* | Quantitative trading systems (`MQL5-DRGridSystem`), quantitative analysis, and scripting automation |
 
 ---
