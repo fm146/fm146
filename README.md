@@ -31,7 +31,7 @@ Here are the fields I am most passionate about and active in:
 
 * **📈 Quant Trading**: Quantitative analysis of financial markets, designing trading algorithms, and backtesting investment strategies.
 * **💻 Web Development**: Designing and building modern web applications, interactive control dashboards, and robust backend architectures.
-* **🕹️ Interactive Systems**: Designing physical and digital interactive systems, integrating microcontrollers with dynamic interfaces and non-blocking serial CLIs.
+* **🕹️ Interactive Systems**: Building immersive experiences including game development, AR/VR applications, 3D animation, and physics simulations.
 
 ---
 
