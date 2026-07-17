@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Hilmy! (fm146)
 
-Embedded Systems Developer | IoT Tinkerer | Web Explorer
+Embedded Systems Developer | Quant Trader | Web Explorer
 
 ---
 
@@ -12,27 +12,26 @@ Saya adalah seorang developer yang berfokus pada **sistem tertanam (embedded sys
 
 ---
 
-## 📊 Programming Language Mastery
+## 📊 Bahasa Pemrograman Paling Sering Digunakan
 
-Berikut adalah bahasa pemrograman yang paling saya kuasai dan gunakan dalam proyek:
+Berikut adalah bahasa pemrograman yang paling sering saya gunakan dalam berbagai proyek:
 
 | Bahasa | Tingkat Penguasaan | Fokus Penggunaan |
 | :--- | :--- | :--- |
 | **C / C++** | `████████████████░░░` *85%* | IoT, Firmware ESP32, Optimasi Sistem & Performa |
 | **JavaScript** | `████████████░░░░░░░` *60%* | Web Application, Web-based IoT Control Panel |
 | **HTML5 & CSS3** | `████████████░░░░░░░` *60%* | Frontend Web Design, UI/UX Web Panel |
-| **Python** | `████████░░░░░░░░░░░` *40%* | Scripting, Automasi, Data Parsing, Helper Tools |
+| **Python** | `████████░░░░░░░░░░░` *40%* | Quant Trading, Analisis Data, Scripting Automasi |
 
 ---
 
 ## 🎨 Hobi & Ketertarikan
 
-Di luar pekerjaan coding utama, berikut adalah aktivitas dan minat yang saya tekuni:
+Berikut adalah bidang-bidang yang paling saya minati dan tekuni:
 
-* **🔌 Electronics Tinkering & IoT**: Mengotak-atik rangkaian elektronik, sensor, modul audio DAC/ADC, dan protokol komunikasi hardware.
-* **🎵 Eksperimen Audio Digital**: Memproses sinyal suara digital via I2S, dac, pwm, dan audio synthesizer sederhana menggunakan mikrokontroler.
-* **💻 Web Crafting**: Merancang dashboard antarmuka kontrol berbasis web yang interaktif agar sistem tertanam bisa dipantau secara real-time.
-* **🎮 Gaming & Rest**: Menikmati game dan bersantai mencari inspirasi baru saat waktu senggang.
+* **📈 Quant Trading**: Analisis data pasar keuangan secara kuantitatif, pengembangan algoritma trading, dan backtesting strategi investasi.
+* **💻 Web Development**: Merancang dan membangun aplikasi web modern, dashboard kontrol interaktif, serta arsitektur backend yang andal.
+* **🕹️ Interactive Systems**: Merancang sistem interaktif fisik maupun digital, menghubungkan mikrokontroler (ESP32) dengan antarmuka dinamis dan kontrol serial non-blocking.
 
 ---
 
