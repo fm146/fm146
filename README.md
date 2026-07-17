@@ -8,7 +8,7 @@ System Architect | Quant Trader | Web Explorer
 I'm a **System Architect** passionate about **High-Performance Computing (HPC)**, **interactive systems**, and **web architectures**. I enjoy designing efficient systems, optimizing low-level performance, and bridging the gap between backends, interactive interfaces, and system architectures.
 
 - 🛠️ **Currently Working On**: System benchmarking, high-performance optimization, and interactive systems.
-- ⚡ **Fun Fact**: I enjoy building clean, non-blocking CLI control systems.
+- ⚡ **Fun Fact**: I enjoy racing in everything, including software performance.
 
 ---
 
@@ -36,10 +36,10 @@ Here are the fields I am most passionate about and active in:
 
 ---
 
-## 📈 GitHub Stats & Languages
+## 📈 GitHub Stats & Contribution Metrics
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fm146&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fm146&theme=tokyonight" alt="Languages Card" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fm146&theme=tokyonight" alt="Streak Stats" />
 </p>
