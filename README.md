@@ -18,11 +18,11 @@ Here are the programming languages I use most frequently across my projects, inc
 
 | Language | Mastery & Usage | Primary Focus & Projects |
 | :--- | :--- | :--- |
-| **C / C++** | `████████████████░░░` *85%* | High-Performance Computing, GPU-accelerated signal processing (`GPU-DSP`), ESP32 microcontrollers (`esp32-blinker`) |
-| **TypeScript / JS** | `█████████████░░░░░░` *70%* | Interactive trading charts (`Footprint-Chart-React-TSX`), React/Vite frontends (`official-website`), and React SPAs |
+| **C / C++ / MQL5** | `████████████████░░░` *85%* | High-Performance Computing, microcontroller firmware (`esp32-blinker`), and algorithmic trading systems (`MQL5-DRGridSystem`) |
+| **Rust** | `██████████████░░░░░` *75%* | High-performance data processing pipelines, custom wrapper development (`yfinance-rs`), and `bandarmolony` processor |
+| **TypeScript / JS** | `█████████████░░░░░░` *70%* | Interactive trading charts (`Footprint-Chart-React-TSX`), React/Vite frontends (`official-website`), and `bandarmolony` frontend/backend |
 | **PHP (Laravel/CI)** | `████████████░░░░░░░` *60%* | Laravel backends with WhatsApp/SMTP APIs (`chatbox-emailsmtp-waapi`), quantitative hedge fund HRIS (`HR-Information-System-SIGITEC`) |
-| **Dart (Flutter)** | `██████████░░░░░░░░░` *50%* | Cross-platform mobile application development (`bandarmolony`) |
-| **MQL5 / Python** | `█████████░░░░░░░░░░` *45%* | Quantitative trading systems (`MQL5-DRGridSystem`), quantitative analysis, and scripting automation |
+| **Python** | `██████████░░░░░░░░░` *55%* | Quantitative trading analysis, backtesting, scraping pipelines (`bandarmolony` scrapers), and automation scripts |
 
 ---
 
