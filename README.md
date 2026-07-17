@@ -14,14 +14,14 @@ I'm a **System Architect** passionate about **High-Performance Computing (HPC)**
 
 ## 📊 Most Frequently Used Programming Languages
 
-Here are the programming languages I use most frequently across my projects:
+Here are the programming languages I use most frequently across my projects, aligned with my uploaded repositories:
 
-| Language | Mastery & Usage | Primary Focus |
+| Language | Mastery & Usage | Primary Focus & Projects |
 | :--- | :--- | :--- |
-| **C / C++** | `████████████████░░░` *85%* | High-Performance Computing, System Benchmarking, Optimization |
-| **JavaScript** | `████████████░░░░░░░` *60%* | Interactive Web Systems, Modern Web Architectures |
-| **HTML5 & CSS3** | `████████████░░░░░░░` *60%* | Frontend Web Interfaces, Interactive Web UIs |
-| **Python** | `████████░░░░░░░░░░░` *40%* | Quant Trading, Data Analysis, Scripting & Automation |
+| **C / C++** | `████████████████░░░` *85%* | High-Performance Computing, GPU-accelerated signal processing (`GPU-DSP`), ESP32 microcontrollers (`esp32-blinker`) |
+| **TypeScript / JS** | `████████████░░░░░░░` *60%* | Interactive trading data charts (`Footprint-Chart-React-TSX`), React/Next.js architectures (`isr-blog-nextjs-wordpress`) |
+| **MQL5 / Python** | `████████░░░░░░░░░░░` *40%* | Quantitative trading algorithms (`MQL5-DRGridSystem`), quantitative analysis, and scripting automation |
+| **PHP** | `████████░░░░░░░░░░░` *40%* | Backend web architectures, HRIS platforms for quantitative hedge funds (`HR-Information-System-SIGITEC`) |
 
 ---
 
